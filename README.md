@@ -31,4 +31,5 @@ Here are some ideas to get you started:
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twikoo 评论插件](www.orsrv.me/article/twikoo)
 <!-- BLOG-POST-LIST:END -->
