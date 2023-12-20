@@ -31,5 +31,9 @@ Here are some ideas to get you started:
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Twikoo 评论插件](www.orsrv.me/article/twikoo)
+- [实验总结](www.orsrv.me/article/test)
+- [无需安装Anaconda的PyTorch环境](www.orsrv.me/article/pt)
+- [code](www.orsrv.me/article/5768a42e-98f6-4271-814f-b81e0fe8b74a)
+- [年度总结](www.orsrv.me/article/xt)
+- [OneDrive公共网盘](www.orsrv.me/article/one)
 <!-- BLOG-POST-LIST:END -->
