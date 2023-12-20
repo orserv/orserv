@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [无需安装Anaconda的PyTorch环境](www.orsrv.me/article/pt)
 - [实验总结](www.orsrv.me/article/test)
 - [code](www.orsrv.me/article/5768a42e-98f6-4271-814f-b81e0fe8b74a)
-- [无需安装Anaconda的PyTorch环境](www.orsrv.me/article/pt)
 - [年度总结](www.orsrv.me/article/xt)
 - [PicGo+Github图床](www.orsrv.me/article/gh2)
 <!-- BLOG-POST-LIST:END -->
