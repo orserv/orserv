@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [无需安装Anaconda的PyTorch环境](www.orsrv.me/article/pt)
-- [实验总结](www.orsrv.me/article/test)
-- [code](www.orsrv.me/article/5768a42e-98f6-4271-814f-b81e0fe8b74a)
-- [年度总结](www.orsrv.me/article/xt)
-- [PicGo+Github图床](www.orsrv.me/article/gh2)
+- [马云内部发长文：时代变了 我们必须跟上时代](blog.ortech.us.kg/article/b108fdd4-1db7-4d10-a0fc-0db2cebb9429)
+- [408实验](blog.ortech.us.kg/article/408)
+- [我们在加载你的信息流时遇到了问题](blog.ortech.us.kg/article/307cc778-3612-4e25-b204-c4187821aa1a)
+- [Code](blog.ortech.us.kg/article/code)
+- [年度总结](blog.ortech.us.kg/article/xt)
 <!-- BLOG-POST-LIST:END -->
