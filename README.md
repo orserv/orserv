@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [基本概念与关系](blog.ortech.us.kg/article/e3dccb66-da4f-4a03-ab8c-8699966011f0)
+- [Notion 常用快捷键](blog.ortech.us.kg/article/kjj)
 - [域名注册](blog.ortech.us.kg/article/domain)
 - [Cloudflare中DNS记录批量删除](blog.ortech.us.kg/article/cldns)
-- [马云内部发长文：时代变了 我们必须跟上时代](blog.ortech.us.kg/article/b108fdd4-1db7-4d10-a0fc-0db2cebb9429)
 - [无需安装Anaconda的PyTorch环境](blog.ortech.us.kg/article/pt)
 - [年度总结](blog.ortech.us.kg/article/xt)
-- [基本概念与关系](blog.ortech.us.kg/article/e3dccb66-da4f-4a03-ab8c-8699966011f0)
 <!-- BLOG-POST-LIST:END -->
