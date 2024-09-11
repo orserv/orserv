@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [研究生一定要发表论文](blog.ortech.us.kg/article/3685e097-6191-4903-8878-5039e3df5481)
 - [基本概念与关系](blog.ortech.us.kg/article/e3dccb66-da4f-4a03-ab8c-8699966011f0)
 - [Notion 常用快捷键](blog.ortech.us.kg/article/kjj)
 - [域名注册](blog.ortech.us.kg/article/domain)
-- [Cloudflare中DNS记录批量删除](blog.ortech.us.kg/article/cldns)
-- [无需安装Anaconda的PyTorch环境](blog.ortech.us.kg/article/pt)
 - [年度总结](blog.ortech.us.kg/article/xt)
+- [Z-Library](blog.ortech.us.kg/article/771dcaf5-ee1d-42dc-aed3-de8d1510f65d)
 <!-- BLOG-POST-LIST:END -->
