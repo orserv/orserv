@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [研究生一定要发表论文](blog.ortech.us.kg/article/3685e097-6191-4903-8878-5039e3df5481)
-- [Serv00注册](blog.ortech.us.kg/article/serv00)
-- [域名注册](blog.ortech.us.kg/article/domain)
-- [马云内部发长文：时代变了 我们必须跟上时代](blog.ortech.us.kg/article/b108fdd4-1db7-4d10-a0fc-0db2cebb9429)
-- [408实验](blog.ortech.us.kg/article/408)
-- [Z-Library](blog.ortech.us.kg/article/771dcaf5-ee1d-42dc-aed3-de8d1510f65d)
+- [读研：一个奇妙的旅途](blog.ortech.nyc.mn/article/1c28642c-f9c6-8080-9103-d98a0cde68c5)
+- [只要读研，就不得不翻越的三座&quot;大山&quot;](blog.ortech.nyc.mn/article/1c28642c-f9c6-80ed-91ce-d2dc4346612b)
+- [研二：关于就业的闲谈](blog.ortech.nyc.mn/article/1b68642c-f9c6-801c-b6a8-e8f6f521c94c)
+- [Cloudflare实现内网穿透](blog.ortech.nyc.mn/article/cftt)
+- [一个投喂ChatGPT大内容的小技巧](blog.ortech.nyc.mn/article/1b78642c-f9c6-80fd-ab86-e1a50190c0b3)
+- [药](blog.ortech.nyc.mn/article/16a8642c-f9c6-807f-9b03-ed7ba0b7978f)
 <!-- BLOG-POST-LIST:END -->
