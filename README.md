@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [研二：先模仿，再成为，后超越](https://blog.ortech.nyc.mn/article/1cf8642c-f9c6-805a-b28c-c7cbd3c08182)
+- [研：论文写作工具推荐](https://blog.ortech.nyc.mn/article/papertools)
+- [Latex中再也不用为插文献而烦恼了](https://blog.ortech.nyc.mn/article/1c78642c-f9c6-80dc-a807-d2dfeb688bf6)
 - [读研：一个奇妙的旅途](https://blog.ortech.nyc.mn/article/1c28642c-f9c6-8080-9103-d98a0cde68c5)
 - [只要读研，就不得不翻越的三座&quot;大山&quot;](https://blog.ortech.nyc.mn/article/1c28642c-f9c6-80ed-91ce-d2dc4346612b)
 - [研二：关于就业的闲谈](https://blog.ortech.nyc.mn/article/1b68642c-f9c6-801c-b6a8-e8f6f521c94c)
-- [域名注册](https://blog.ortech.nyc.mn/article/domain)
-- [Cloudflare实现内网穿透](https://blog.ortech.nyc.mn/article/cftt)
-- [一个投喂ChatGPT大内容的小技巧](https://blog.ortech.nyc.mn/article/1b78642c-f9c6-80fd-ab86-e1a50190c0b3)
 <!-- BLOG-POST-LIST:END -->
