@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [研二：先模仿，再成为，后超越](http://blog.ortech.nyc.mn/NMLIFE/1cf8642c-f9c6-805a-b28c-c7cbd3c08182)
-- [研：论文写作工具推荐](http://blog.ortech.nyc.mn/技术分享/papertools)
-- [Latex中再也不用为插文献而烦恼了](http://blog.ortech.nyc.mn/技术分享/1c78642c-f9c6-80dc-a807-d2dfeb688bf6)
-- [读研：一个奇妙的旅途](http://blog.ortech.nyc.mn/NMLIFE/1c28642c-f9c6-8080-9103-d98a0cde68c5)
-- [只要读研，就不得不翻越的三座&quot;大山&quot;](http://blog.ortech.nyc.mn/NMLIFE/1c28642c-f9c6-80ed-91ce-d2dc4346612b)
-- [研二：关于就业的闲谈](http://blog.ortech.nyc.mn/jy)
+- [Cloud Mail 部署教程](http://blog.ortech.nyc.mn/技术分享/cloudMail)
+- [免费二级域名pp.ua](http://blog.ortech.nyc.mn/技术分享/ppua)
+- [免费.com域名和.site域名](http://blog.ortech.nyc.mn/技术分享/freecom)
+- [giffgaff申请、开卡与常见问题攻略（合集）](http://blog.ortech.nyc.mn/知行合一/giffgaffAll)
+- [节点转换常用链接汇总](http://blog.ortech.nyc.mn/技术分享/jdtrans)
+- [记：面试/笔试与简历投递](http://blog.ortech.nyc.mn/NMLIFE/mbshi)
 <!-- BLOG-POST-LIST:END -->
