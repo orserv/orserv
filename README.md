@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Vue3快速入门](http://blog.ortech.nyc.mn/知行合一/vue3)
-- [接口、UI组件库](http://blog.ortech.nyc.mn/知行合一/uiAapi)
-- [腾讯（EdgeOne）CDN加速](http://blog.ortech.nyc.mn/技术分享/tccdn)
-- [Cloud Mail 部署教程](http://blog.ortech.nyc.mn/技术分享/cloudMail)
-- [免费二级域名pp.ua](http://blog.ortech.nyc.mn/技术分享/ppua)
-- [免费.com域名和.site域名](http://blog.ortech.nyc.mn/技术分享/freecom)
+- [2025年度总结](https://blog.ortech.nyc.mn/article/2025summary)
+- [算法题整理](https://blog.ortech.nyc.mn/article/algorithm)
+- [Vue3快速入门](https://blog.ortech.nyc.mn/article/vue3)
+- [接口、UI组件库](https://blog.ortech.nyc.mn/article/uiAapi)
+- [腾讯（EdgeOne）CDN加速](https://blog.ortech.nyc.mn/article/tccdn)
+- [记参加学术会议](https://blog.ortech.nyc.mn/article/xshy)
 <!-- BLOG-POST-LIST:END -->
