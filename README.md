@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [效率提升方法论](http://blog.ortech.nyc.mn/NMLIFE/efficiency)
-- [2025年度总结](http://blog.ortech.nyc.mn/心情随笔/2025summary)
-- [算法题整理](http://blog.ortech.nyc.mn/知行合一/algorithm)
+- [Docker 笔记：两个配置文件Dockerfile 与 docker-compose.yml](http://blog.ortech.nyc.mn/知行合一/docker2)
+- [📚 Docker 多技术栈模板大全](http://blog.ortech.nyc.mn/知行合一/docker3)
+- [Docker容器化部署与迁移](http://blog.ortech.nyc.mn/知行合一/docker)
 - [腾讯（EdgeOne）CDN加速](http://blog.ortech.nyc.mn/技术分享/tccdn)
-- [免费二级域名pp.ua](http://blog.ortech.nyc.mn/技术分享/ppua)
-- [记参加学术会议](http://blog.ortech.nyc.mn/NMLIFE/xshy)
+- [giffgaff申请、开卡与常见问题攻略（合集）](http://blog.ortech.nyc.mn/知行合一/giffgaffAll)
+- [giffgaff卡宝典](http://blog.ortech.nyc.mn/知行合一/giffgaff)
 <!-- BLOG-POST-LIST:END -->
